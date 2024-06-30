@@ -4,10 +4,10 @@ Simple calculator, supports basic addition, subtraction, multiplication, and div
 
 Does not support parentheses functionality.
 
-## Version
+## Overview
 
-- C++ v11
-- g++ v13.1.0
+- Language: C++
+- Compiler: G++ v13.1.0
 
 ## Build
 
